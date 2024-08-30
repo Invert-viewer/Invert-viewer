@@ -24,14 +24,16 @@ You can click the Preview link to take a look at your changes.
 <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="C++" height="25em"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
-![Invert-viewer's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Invert-viewer&show_icons=true&count_private=true&theme=gotham)
 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img align="450em" src="https://github-readme-stats.vercel.app/api/?username=Invert-viewer&theme=dark"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invert-viewer&layout=compact"/>
+</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/invert-viewer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="invert-viewer" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a>
