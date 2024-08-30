@@ -24,12 +24,12 @@ You can click the Preview link to take a look at your changes.
 <img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="C++" height="25em"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
-
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img align="450em" src="https://github-readme-stats.vercel.app/api/?username=Invert-viewer&theme=dark"/>
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invert-viewer&layout=compact"/>
 </a>
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/invert-viewer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="invert-viewer" height="30" width="40" /></a>
