@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img align="450em" src="https://github-readme-stats.vercel.app/api/?username=Invert-viewer&theme=dark"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invert-viewer&layout=compact"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invert-viewer&layout=compact"/>
 </a>
 
 <h3 align="center">Connect with me:</h3>
