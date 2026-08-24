@@ -1,39 +1,66 @@
-<!---
-Invert-viewer/Invert-viewer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Invert-viewer 👋
 
-<h1 align="center">Hi 👋, I'm Invert-viewer</h1>
-<h3 align="center">致敬想象和创造力！</h3>
+> 致敬想象和创造力。  
+> Building things one step at a time.
 
-- 🌱 I’m currently learning a lot of things.Here are some agency matters:
-- [ ]  advanced Python
-- [ ]  C/C++ Language Foundation Prevention
-- [x]  personal blog maintenance
-- [ ]  Arduino UNO
+这里是凌蓝，一名喜欢 Minecraft 与 Furry 文化的开发学习者。
 
-- 🔭 I’m currently working on [my personal blog!](https://invert-viewer.github.io/)
+## About Me
 
-- 📝 I regularly write articles on [https://invert-viewer.github.io/](https://invert-viewer.github.io/)
+- ☕ 目前以 **Java / Java Web** 为主要学习方向
+- 🌐 正在学习 **HTML、CSS、JavaScript、Vue 和 Spring Boot**
+- 🗄️ 接触过 **MySQL、数据库设计与 SQL**
+- 🐧 正在熟悉 **Linux、Git 和基础工程工具**
+- 🎮 喜欢 **Minecraft**
+- 🐾 Furry，喜欢一切与想象力和创造力有关的东西
+- 📝 在个人博客记录学习过程与生活思考
 
-- ⚡ Fun fact **That is a lot~**
+## Tech Stack
 
-<h2 align="center" class="info"> My language </h2>
-<div align="center">
-<img alt="C" height="25em"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img alt="Python" height="25em"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img alt="C++" height="25em"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
+### Currently Using
+
+`Java` · `HTML` · `CSS` · `JavaScript` · `MySQL` · `Git`
+
+### Currently Learning
+
+`Spring Boot` · `Vue` · `Linux` · `Java Web`
+
+### Previously Used
+
+`C` · `Python` · `C++`
+
+## Current Focus
+
+- [ ] 完成一个前后端分离的 Java Web CRUD 项目
+- [ ] 使用 Spring Boot 连接 MySQL 并实现基本接口
+- [ ] 使用 Vue 完成对应的前端页面
+- [ ] 熟悉 Git 分支、合并与 Pull Request 流程
+- [ ] 整理并公开课程设计与学习笔记
+
+## Projects
+
+- [Personal Blog](https://invert-viewer.179.life/)  
+  记录学习笔记、技术尝试和一些生活思考。
+
+- **Course Projects**  
+  正在整理面向对象程序设计、数据结构与数据库相关课程项目。
+
+## Interests
+
+除了 Web 开发，也对以下方向保持好奇：
+
+- Minecraft 与模组开发
+- 人工智能与开发者工具
+- 操作系统与计算机网络
+- 开源软件与技术社区
+
+## Contact
+
+- Blog: [invert-viewer.github.io](https://invert-viewer.github.io/)
+- Email: invert-viewer@qq.com
+
+---
+
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img align="450em" src="https://github-readme-stats.vercel.app/api/?username=Invert-viewer&theme=dark"/>
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invert-viewer&layout=compact"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Invert-viewer&theme=dark" alt="GitHub Stats">
 </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://stackoverflow.com/users/invert-viewer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="invert-viewer" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a>
